@@ -71,7 +71,7 @@ left: 0;
     width: 100%;
     height: 100vh;
     /* background-color: #031540; */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.114),transparent),url(https://img.freepik.com/free-photo/hot-coffee-modern-desk-wireless-technology-generated-by-ai_188544-25263.jpg?t=st=1696350965~exp=1696354565~hmac=a90c4206d4b45f7753c7ac3beb93590d6b74517feec157a49044214526d7eea7&w=1380);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.114),transparent),url(./images/banner.jpg);
     background-position:center;
     background-size:cover ;
     padding: 0 8%;
