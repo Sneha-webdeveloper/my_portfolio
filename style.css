@@ -434,7 +434,7 @@ width: 350px;
 #about{
   width: 400px;
   top: 0;
-  height: 250vh;
+  height: 150vh;
 }
 .abt-img{
   width: 380px;
@@ -443,15 +443,17 @@ width: 350px;
     padding-left: 250px;
     height: 300px;
     margin-left: 10px;
+    top: 0;
 }
 .abt-content{
   width: 400px;
   margin-left: -415px;
   padding: 0;
   margin-bottom: 350px;
-  background-color: #00abf0;
+  background-color: #0f0358;
   border-top: 3px white solid;
   margin-top: 686px;
+  top: 0;
   
 }
  #ah1{
